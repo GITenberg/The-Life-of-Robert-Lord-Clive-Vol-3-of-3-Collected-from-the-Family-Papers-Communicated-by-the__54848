@@ -1,0 +1,26 @@
+_repo: The-Life-of-Robert-Lord-Clive-Vol-3-of-3-Collected-from-the-Family-Papers-Communicated-by-the__54848
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malcolm, John
+    birthdate: 1769
+    deathdate: 1833
+    gutenberg_agent_id: '46717'
+    url: http://www.gutenberg.org/2009/agents/46717
+description: ''
+gutenberg_issued: '2017-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'India -- History -- British occupation, 1765-1947'
+- !lcsh 'Clive, Robert Clive, Baron, 1725-1774'
+- GITenberg
+title: "The Life of Robert, Lord Clive, Vol. 3 (of 3)\r\nCollected from the Family\
+  \ Papers Communicated by the Earl of Powis"
+url: http://www.gutenberg.org/ebooks/54848
