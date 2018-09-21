@@ -1,5 +1,8 @@
 _repo: The-Life-of-Robert-Lord-Clive-Vol-3-of-3-Collected-from-the-Family-Papers-Communicated-by-the__54848
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54848-h/images/cover.jpg
 creator:
   author:
     agent_name: Malcolm, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46717'
     url: http://www.gutenberg.org/2009/agents/46717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54848#The-Life-of-Robert-Lord-Clive-Vol-3-of-3-Collected-from-the-Family-Papers-Communicated-by-the_
 gutenberg_issued: '2017-06-05'
 gutenberg_type: Text
 identifiers:
